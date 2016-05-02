@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dererumnatura00lucr_0005.png"; bbox 0 0 1543 2479; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 91 703 151">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 91 703 151">
+     <span class='ocr_line' id='line_1_1' title="bbox 131 91 703 151; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 131 92 253 151; x_wconf 88' lang='lat' dir='ltr'>Pitt</span> <span class='ocrx_word' id='word_1_2' title='bbox 303 94 468 151; x_wconf 86' lang='lat' dir='ltr'>Press</span> <span class='ocrx_word' id='word_1_3' title='bbox 520 91 703 150; x_wconf 80' lang='lat' dir='ltr'>Series</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 223 952 1235 1017">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 223 952 1235 1017">
+     <span class='ocr_line' id='line_1_2' title="bbox 223 952 1235 1017; baseline -0.006 -1"><span class='ocrx_word' id='word_1_4' title='bbox 223 958 426 1017; x_wconf 90' lang='lat' dir='ltr'>TITI</span> <span class='ocrx_word' id='word_1_5' title='bbox 502 955 928 1016; x_wconf 86' lang='lat' dir='ltr'><strong>LUCRETI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1007 952 1235 1013; x_wconf 76' lang='lat' dir='ltr'>CARI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 404 1114 1053 1158">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 404 1114 1053 1158">
+     <span class='ocr_line' id='line_1_3' title="bbox 404 1114 1053 1158; baseline -0.008 0"><span class='ocrx_word' id='word_1_7' title='bbox 404 1118 487 1158; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 528 1116 746 1156; x_wconf 88' lang='lat' dir='ltr'><strong>RERUM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 790 1114 1053 1156; x_wconf 85' lang='lat' dir='ltr'><strong>NATURA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 604 1251 850 1288">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 604 1251 850 1288">
+     <span class='ocr_line' id='line_1_4' title="bbox 604 1251 850 1288; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 604 1251 767 1288; x_wconf 81' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_11' title='bbox 804 1251 850 1288; x_wconf 88' lang='lat' dir='ltr'><strong>V.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
